@@ -63,6 +63,7 @@
 | [Patternico](https://patternico.com) | Seamless Pattern Maker |
 | [Freellustrations](https://freellustrations.com/) | Free Background Images for awesome landing Pages |
 | [Pixeltrue Illustrations](https://www.pixeltrue.com/illustrations) | Free Animated Illustrations |
+| [LottieFiles](https://lottiefiles.com) | A collection of Free Lottie Animations |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
